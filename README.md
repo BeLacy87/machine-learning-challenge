@@ -16,7 +16,7 @@ Grid Search
                             0.8865129640006113
         dropped error columns: (.815)
 
-    2. RanFor: tuned n_estimators to 64 (.900)
+   2. RanFor: tuned n_estimators to 64 (.900)
                tuned max_depth: 18.0, Train/Test Score: 0.993/(0.902)
                source: https://medium.com/all-things-ai/in-depth-parameter-tuning-for-random-forest-d67bb7e920d
         param_grid= {'n_estimators': [32, 64, 100],
